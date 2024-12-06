@@ -1,1 +1,0 @@
-console.log("\nElementos nos indices impares: ", impar); 
